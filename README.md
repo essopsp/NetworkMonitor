@@ -2,7 +2,7 @@
 
 A sleek, floating, and highly customizable network speed monitor for Windows.
 
-![Network Monitor Screenshot](https://i.imgur.com/YOUR_SCREENSHOT_URL.png)  <!-- You can replace this with a real screenshot later -->
+![Network Monitor Screenshot](https://i.imgur.com/fA2EkLD.png)  <!-- You can replace this with a real screenshot later -->
 
 ---
 
