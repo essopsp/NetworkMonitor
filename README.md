@@ -10,6 +10,15 @@ A sleek, floating, and highly customizable network speed monitor for Windows.
 
 This tool provides a small, borderless, always-on-top window that displays your current upload and download speeds. It's designed to be unobtrusive, allowing you to keep a close eye on your network activity without cluttering your workspace.
 
+### 📖 The Story Behind the Monitor
+
+It all started with a simple need: a way to keep an eye on my network speeds without the clutter. I searched the internet for a tool that was small, simple, and customizable. I found plenty of options, but they were all either bloated with features I didn't need, plastered with ads, or locked behind a paywall.
+
+Frustrated with the lack of a good, free solution, I decided to take matters into my own hands. Inspired by the open-source community, I set out to create the tool I had been searching for: a network monitor that was clean, simple, and completely free for everyone.
+
+This Network Monitor is the result of that journey. It's a tool built out of a personal need, and it's my hope that it will be useful to others who, like me, just want a simple way to see what their network is doing.
+
+
 ### 🌟 Features
 
 -   **🖼️ Floating Window:** A clean, borderless window that you can place anywhere on your screen.
